@@ -1,4 +1,4 @@
-#Tic-Tac-Toe simple game
+# Tic-Tac-Toe simple game
 
 This project consists of Loading Screen, Gaming board and Gaming history with local storage
 # Getting Started with Create React App
